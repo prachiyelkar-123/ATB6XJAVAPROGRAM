@@ -1,4 +1,4 @@
-package EX_11052024.Assignment;
+package EX_11052024;
 
 public class Main {
     public static void main(String[] args) {
