@@ -6,7 +6,7 @@ public class CodeExplaination {
         g.home(); // What will be the output
     }
 }
-class Son extends Father{
+class Son extends Hierachicalinheritence.Father {
     void home(){
         System.out.println("3BHK");
     }
