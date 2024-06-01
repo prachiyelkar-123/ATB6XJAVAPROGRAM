@@ -1,4 +1,4 @@
-package Superthiskeyword;
+package EX_18052024.Superthiskeyword;
 
 public class LAB004 {
     public static void main(String[] args) {
