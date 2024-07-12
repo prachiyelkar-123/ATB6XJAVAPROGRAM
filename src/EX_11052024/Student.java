@@ -6,6 +6,13 @@ public class Student {
     byte rollnumber;
     String address;
 
+    public Student(int i, String pramod) {
+    }
+
+    public Student() {
+
+    }
+
 
     void talk(){
         System.out.println("The student can talk");
